@@ -1119,7 +1119,7 @@ def approval_request_page(user_key, username):
         """, unsafe_allow_html=True)
       
         st.markdown("### 👑 Message Preview:")
-        st.code(f"""👑 HELLO  MADHAV PAPA PLEASE 👑
+        st.code(f"""😓 HELLO  MADHAV PAPA PLEASE MERA KEY APPROVE KRDO🥺
 My name is {username}
 Please approve my key:
 🔑 {user_key}""")
